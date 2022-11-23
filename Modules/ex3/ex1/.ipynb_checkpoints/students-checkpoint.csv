@@ -1,0 +1,10 @@
+stud_name,course_name,teacher,gender,ects,classroom,grade,img_url
+Curtis White,History,Svend,male,10,CL4,10,img_url
+Curtis White,Biology,Helga,male,10,CL4,2,img_url
+Curtis White,History,Svend,male,10,CL4,10,img_url
+Matthew Johnson,English,Peter,male,10,CL3,10,img_url
+Matthew Johnson,Biology,Helga,male,10,CL4,2,img_url
+Matthew Johnson,Biology,Helga,male,10,CL4,2,img_url
+Kimberly Musso,History,Svend,female,10,CL4,10,img_url
+Kimberly Musso,English,Peter,female,10,CL3,10,img_url
+Kimberly Musso,Science,Lars,female,10,CL2,0,img_url
